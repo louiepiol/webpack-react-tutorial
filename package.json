@@ -19,7 +19,10 @@
     "express": "^4.16.4",
     "prop-types": "^15.7.0",
     "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+    "react-dom": "^16.8.1",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
@@ -28,12 +31,16 @@
     "babel-loader": "^8.0.5",
     "clean-webpack-plugin": "^1.0.1",
     "concurrently": "^4.1.0",
+    "css-loader": "^2.1.0",
+    "file-loader": "^3.0.1",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
     "nodemon": "^1.18.10",
     "prop-types": "^15.7.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.1.14"
